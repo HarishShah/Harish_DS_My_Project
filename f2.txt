@@ -1,0 +1,1 @@
+There is a new text file creted from Git Bash
